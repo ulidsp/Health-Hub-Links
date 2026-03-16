@@ -10,7 +10,7 @@ export interface HealthApp {
 export const HEALTH_APPS: HealthApp[] = [
   {
     id: '1',
-    name: 'Health Tracker & Lab Analyzer Firebase',
+    name: 'Health Tracker & Lab Analyzer',
     description: 'รวมประวัติสุขภาพ วิเคราะห์ และตอบคำถาม 1',
     url: 'https://health-tracker-lab-analyzer-firebas.vercel.app',
     color: 'from-emerald-400 to-cyan-500',
