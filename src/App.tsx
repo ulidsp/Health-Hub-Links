@@ -65,7 +65,7 @@ export default function App() {
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 mb-4">
               <span className="text-blue-500">Health Tracker</span>
               <div className="text-gray-400">&</div>
-              <div className="text-emerald-500">Lab Analyzer App</div>
+              <div className="text-emerald-500">~ Lab Analyzer App ~</div>
             </h1>
             <p className="text-lg text-slate-500 max-w-md mx-auto leading-relaxed">
               ศูนย์รวมแอปพลิเคชันเพื่อการดูแลสุขภาพ<br/>
