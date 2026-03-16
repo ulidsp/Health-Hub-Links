@@ -20,7 +20,7 @@ export const HEALTH_APPS: HealthApp[] = [
     id: '2',
     name: 'Health Tracker server 2',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: 'https://health-tracker-lab-analyzer-thunyaluk.onrender.com',
+    url: 'https://health-tracker-lab-analyzer-firebas-lac.vercel.app',
     color: 'from-rose-400 to-orange-500',
     icon: 'HeartPulse',
   },
