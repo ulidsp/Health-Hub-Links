@@ -63,10 +63,10 @@ export default function App() {
               <HeartPulse className="w-8 h-8 text-emerald-500" />
             </div>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 mb-4">
-              Health Tracker <span className="text-emerald-500">& Lab Analyzer</span>
+              Health Tracker <div className="text-emerald-500">& Lab Analyzer</div>
             </h1>
             <p className="text-lg text-slate-500 max-w-md mx-auto leading-relaxed">
-              ศูนย์รวมแอปพลิเคชันเพื่อการดูแลสุขภาพของคุณ <br/>
+              ศูนย์รวมแอปพลิเคชันเพื่อการดูแลสุขภาพ<br/>
               <span className="text-orange-500">เชิญเลือก Server ที่ต้องการได้เลยครับ</span>
             </p>
           </motion.div>
