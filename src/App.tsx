@@ -63,8 +63,8 @@ export default function App() {
               <HeartPulse className="w-8 h-8 text-emerald-500" />
             </div>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 mb-4">
-              Health Tracker
-              <div className="text-blue-500">&</div>
+              <span className="text-blue-500">Health Tracker</span>
+              <div className="text-gray-400">&</div>
               <div className="text-emerald-500">Lab Analyzer Application</div>
             </h1>
             <p className="text-lg text-slate-500 max-w-md mx-auto leading-relaxed">
