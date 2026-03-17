@@ -42,9 +42,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '5',
-    name: 'Health Tracker server 5',
+    name: 'Health Tracker tmc server 5',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: '#',
+    url: 'https://health-tracker-lab-analyzer-05.vercel.app',
     color: 'from-indigo-400 to-blue-500',
     icon: 'Brain',
   },
