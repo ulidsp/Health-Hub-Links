@@ -58,9 +58,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '7',
-    name: 'Health Tracker server 7',
+    name: 'Health Tracker tingnui server 7',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: '#',
+    url: 'https://health-tracker-lab-analyzer-07.vercel.app',
     color: 'from-sky-400 to-indigo-500',
     icon: 'Moon',
   },
