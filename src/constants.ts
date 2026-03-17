@@ -10,7 +10,7 @@ export interface HealthApp {
 export const HEALTH_APPS: HealthApp[] = [
   {
     id: '1',
-    name: 'Health Tracker server 1',
+    name: 'Health Tracker ulid server 1',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
     url: 'https://health-tracker-lab-analyzer-firebas.vercel.app',
     color: 'from-emerald-400 to-cyan-500',
@@ -18,7 +18,7 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '2',
-    name: 'Health Tracker server 2',
+    name: 'Health Tracker kku server 2',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
     url: 'https://health-tracker-lab-analyzer-firebas-lac.vercel.app',
     color: 'from-rose-400 to-orange-500',
