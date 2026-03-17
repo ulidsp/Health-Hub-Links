@@ -74,9 +74,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '9',
-    name: 'Health Tracker server 9',
+    name: 'Health Tracker ts server 9',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: '#',
+    url: 'https://health-tracker-lab-analyzer-09.vercel.app',
     color: 'from-red-400 to-rose-500',
     icon: 'Stethoscope',
   },
