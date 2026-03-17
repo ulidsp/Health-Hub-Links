@@ -18,9 +18,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '2',
-    name: 'Health Tracker kku server 2',
+    name: 'Health Tracker hc001 server 2',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: 'https://health-tracker-lab-analyzer-firebas-lac.vercel.app',
+    url: 'https://health-tracker-lab-analyzer-02.vercel.app',
     color: 'from-rose-400 to-orange-500',
     icon: 'HeartPulse',
   },
