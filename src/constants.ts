@@ -82,9 +82,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '10',
-    name: 'Health Tracker server 10',
+    name: 'Health Tracker smallvet server 10',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: '#',
+    url: 'https://health-tracker-lab-analyzer-10.vercel.app',
     color: 'from-blue-400 to-cyan-500',
     icon: 'Droplets',
   },
