@@ -34,9 +34,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '4',
-    name: 'Health Tracker server 4',
+    name: 'Health Tracker blog server 4',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: '#',
+    url: 'https://health-tracker-lab-analyzer-04.vercel.app',
     color: 'from-amber-400 to-yellow-500',
     icon: 'Apple',
   },
