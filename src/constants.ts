@@ -50,9 +50,9 @@ export const HEALTH_APPS: HealthApp[] = [
   },
   {
     id: '6',
-    name: 'Health Tracker server 6',
+    name: 'Health Tracker kku server 6',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: '#',
+    url: 'https://health-tracker-lab-analyzer-06.vercel.app',
     color: 'from-lime-400 to-green-500',
     icon: 'Dumbbell',
   },
