@@ -10,9 +10,9 @@ export interface HealthApp {
 export const HEALTH_APPS: HealthApp[] = [
   {
     id: '1',
-    name: 'Health Tracker ulid server 1',
+    name: 'Health Tracker ct007 server 1',
     description: 'ประวัติสุขภาพ วิเคราะห์ ตอบคำถาม',
-    url: 'https://health-tracker-lab-analyzer-firebas.vercel.app',
+    url: 'https://health-tracker-lab-analyzer-01.vercel.app',
     color: 'from-emerald-400 to-cyan-500',
     icon: 'Activity',
   },
